@@ -1,0 +1,34 @@
+.sidebar-link {
+  color: white;
+  padding: 10px 15px;
+  display: block;
+  text-decoration: none;
+  border: none !important;     /* Bỏ mọi border */
+  transition: background-color 0.3s ease;
+}
+
+.sidebar-link:hover {
+  background-color: #3c7ddf !important;
+  color: #fff !important;
+  text-decoration: none;
+}
+
+
+
+/* css cho trang home*/
+ .navbar-inverse {
+     margin-bottom: 50px;
+     border-radius: 0;
+ }
+
+
+ .jumbotron {
+     margin-bottom: 0;
+ }
+
+
+ .foorter-homepage {
+     background-color: #f2f2f2;
+     padding: 25px;
+ }
+
